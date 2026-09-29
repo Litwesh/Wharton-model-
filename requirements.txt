@@ -1,0 +1,10 @@
+streamlit>=1.40
+yfinance>=0.2.66
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.5
+joblib>=1.4
+requests>=2.32
+python-dotenv>=1.0
+xgboost>=2.1
